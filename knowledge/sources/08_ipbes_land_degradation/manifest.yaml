@@ -1,0 +1,11 @@
+title: "IPBES Assessment Report on Land Degradation and Restoration"
+document_title: "IPBES land degradation themes — drivers, biodiversity, and restoration options"
+organization: "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)"
+authors: "IPBES"
+publication_year: 2018
+source_type: "scientific_assessment"
+url: "https://www.ipbes.net/assessment-reports/ldr"
+topic: "human_impact"
+geographic_scope: "global"
+metadata:
+  themes: ["land degradation", "biodiversity", "pollution", "restoration", "deforestation"]
